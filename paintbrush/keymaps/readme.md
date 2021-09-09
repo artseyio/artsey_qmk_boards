@@ -2,11 +2,7 @@ These artsey keymaps rely on files available in the artsey qmk firmware director
 
 To use these keymaps:
 
-	1. Open the qmk artsey firmware directory https://github.com/artseyio/artsey-qmk
-		
-			If you have not done so already, follow Step 1 of the "How to Build" 
-			instructions (Set up QMK and Clone "Early Combos" repo.)
-			
+	1. Open the qmk artsey firmware directory https://github.com/artseyio/artsey-qmk and follow the "How to Build" instructions.
 	2. Open the left_hand or right_hand folder, depending on if you are building a lefty or righty paintbrush.
 	3. Copy all the files EXCEPT the keymaps folder.
 	4. Paste them in the appropriate keymap's folder. 
